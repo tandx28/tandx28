@@ -11,7 +11,7 @@ exploring what AI coding tools can do, always with tests and CI behind the resul
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Settle**](https://settlelah-sg.vercel.app) | Settle-up app for game nights: shared live tables, exact-to-the-cent maths, PayNow QR codes made on the device | JavaScript · Node.js · Redis · Vercel |
-| [**Gatebound**](https://tandx28.github.io/gatebound/) | 3D browser game with a seeded simulation, 640+ unit tests and CI that tests and deploys every push | TypeScript · Three.js · Vitest · GitHub Actions |
+| [**Untitled Levelling Game**](https://tandx28.github.io/gatebound/) | 3D browser game with a seeded simulation, 640+ unit tests and CI that tests and deploys every push | TypeScript · Three.js · Vitest · GitHub Actions |
 | [**Portfolio**](https://tandx28.github.io) | This site: Astro, built and deployed by GitHub Actions to GitHub Pages | Astro · TypeScript · GitHub Actions |
 | Automation | Nightly Canvas sync into a searchable notes vault; a scheduled content pipeline (in progress) | Python · Canvas API · FFmpeg · launchd |
 
